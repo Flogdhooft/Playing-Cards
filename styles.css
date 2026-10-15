@@ -10,7 +10,7 @@ body {
   align-items: center;
   width: 100%;
   min-height: 100dvh;
-  background-color: #f1f1f1;
+  background: linear-gradient(-225deg, #f7b395, #c5b3aa);
 }
 
 .playing-cards {
